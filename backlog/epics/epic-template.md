@@ -1,22 +1,15 @@
-NEEDS REFINEMENT
-
 # Epic: <Name>
 
-## Business Outcome
-What measurable outcome does this epic enable?
-
-## Problem Statement
+## Description
 What problem is being solved?
 
-## Success Metrics
-- Observable indicator of success
+## Value Proposition
+- Business outcomes and strategic alignment
 
-## In Scope
-
-## Out of Scope
-
-## Dependencies / Constraints
-
-## Linked Jira Epic
+## Risks & Dependencies
 
 ## Acceptance Criteria
+
+## Child Work Items
+
+## Linked Work Items
