@@ -10,7 +10,7 @@ What problem is being solved?
 
 ## Acceptance Criteria
 
-## Linked Jira Item
+## Linked Jira Epic
 
 ## Child Work Items
 
