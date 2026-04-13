@@ -1,5 +1,3 @@
-NEEDS REFINEMENT
-
 # User Story
 
 As a <user>,  
@@ -14,6 +12,8 @@ So that <value>.
 - Testable acceptance criteria
 - Dependencies identified
 
-## Notes / Edge Cases
-
 ## Linked Jira Story
+
+## Subtasks
+
+## Linked Work Items
